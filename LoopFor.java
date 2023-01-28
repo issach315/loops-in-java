@@ -12,6 +12,9 @@ public class LoopFor
             System.out.println("india");
             
         }
+        /*
+        1. Loop is defined as the for doing the same operation repeatedly. 
+        */
     }
     
 }
