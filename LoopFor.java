@@ -14,6 +14,7 @@ public class LoopFor
         }
         /*
         1. Loop is defined as the for doing the same operation repeatedly. 
+        2. for-loop is used for known iterations.
         */
     }
     
